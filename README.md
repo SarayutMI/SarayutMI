@@ -28,5 +28,12 @@ Here are some ideas to get you started:
   - (GPAX : 3.07 )
 - vocational : Computer techniques Phrae Technical College.
   - (GPAX : 3.47)
-- Bachelor's degree Rajamangala University of Lanna. 
-  - ( GPAX : :green_circle:Now Studying)
+- Bachelor's degree : Rajamangala University of Lanna. 
+  - (GPAX : :green_circle:Now Studying)
+
+# Contact
+- Line 
+- instagram
+- Facebook sarayut meepanya
+- [Facebook](https://www.facebook.com/meepanya.sarayut)
+- Gmail : sarayutmeepanya.edu@gmail.com
