@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+# This is Sarayuth's Kit Hub while studying at Faculty of Computer Engineering, Rajamangala University of Lanna.</center>
 
 **SarayutMI/SarayutMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
