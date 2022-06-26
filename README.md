@@ -32,8 +32,7 @@ Here are some ideas to get you started:
   - (GPAX : :green_circle:Now Studying)
 
 # Contact
-- Line 
-- instagram
-- Facebook sarayut meepanya
-- [Facebook](https://www.facebook.com/meepanya.sarayut)
-- Gmail : sarayutmeepanya.edu@gmail.com
+- Line : [sarayut_0](https://line.me/ti/p/Hofs7cWf7d)
+- instagram : [mork.sarayut](https://instagram.com/mork.sarayut?r=nametag)
+- Facebook : [sarayut meepanya](https://www.facebook.com/meepanya.sarayut)
+- Gmail : [sarayutmeepanya.edu@gmail.com](sarayutmeepanya.edu@gmail.com)
