@@ -13,14 +13,11 @@
 - Address : Phrae,Thailand
 
 # Educational information
-- Elementary : Watsripom School
-  - (GPAX :3.20)
-- Secondary : Teppitakvittaya School
-  - (GPAX : 3.07 )
+- Elementary : Watsripom School Phrae
+- Secondary : Teppitakvittaya School Phrae
 - vocational : Computer techniques Phrae Technical College.
-  - (GPAX : 3.47)
 - Bachelor's degree : Rajamangala University of Lanna. 
-  - (GPAX : :green_circle:Now Studying)
+  - Major : Computer Engineering
 
 # Contact
 - Telephone : +66 637930329
