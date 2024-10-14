@@ -8,20 +8,19 @@
 - Name : Sarayut Mipanya
 - Nickname : Mork
 - Brithday : 18 March 2004
-- Age : 18 Year
+- Age : 20 Year
 - Sex : Male
 - Address : Phrae,Thailand
 
 # Educational information
-- Elementary : Watsripom School Phrae
 - Secondary : Teppitakvittaya School Phrae
 - vocational : Computer techniques Phrae Technical College.
 - Bachelor's degree : Rajamangala University of Lanna. 
   - Major : Computer Engineering
 
 # Contact
-- Telephone : +66 637930329
+- Telephone : +66 623854194
 - Line : [sarayut_0](https://line.me/ti/p/Hofs7cWf7d)
 - instagram : [mork.sarayut](https://instagram.com/mork.sarayut?r=nametag)
 - Facebook : [sarayut meepanya](https://www.facebook.com/meepanya.sarayut)
-- Gmail : sarayutmeepanya.edu@gmail.com
+- Gmail : sarayut_mi65@live.rmutl.ac.th.com
